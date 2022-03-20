@@ -1,0 +1,2 @@
+# qlog
+Qt logger
